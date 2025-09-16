@@ -11,6 +11,8 @@ class Solution:
                 key = elms[j]+chr(j)
                 if key in freq:
                     freq[key] += 1
+                else:
+                    break
         print(freq)
         for key, value in freq.items():
             if length == value:

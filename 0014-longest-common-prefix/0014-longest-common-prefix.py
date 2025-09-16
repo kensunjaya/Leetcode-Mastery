@@ -4,11 +4,11 @@ class Solution:
         length = len(strs)
         out = ""
         for i in range(len(strs[0])):
-            freq[strs[0][i]+str(i)] = 1
+            freq[strs[0][i]+chr(i)] = 1
         
         for elms in strs[1:]:
             for j in range(len(elms)):
-                key = elms[j]+str(j)
+                key = elms[j]+chr(j)
                 if key in freq:
                     freq[key] += 1
         print(freq)

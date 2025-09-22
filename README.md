@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kensunjaya/Leetcode-Mastery/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/kensunjaya/Leetcode-Mastery/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/kensunjaya/Leetcode-Mastery/tree/master/0058-length-of-last-word) |
 | [0680-valid-palindrome-ii](https://github.com/kensunjaya/Leetcode-Mastery/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |

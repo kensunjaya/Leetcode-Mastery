@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kensunjaya/Leetcode-Mastery/tree/master/0014-longest-common-prefix) |
 | [0046-permutations](https://github.com/kensunjaya/Leetcode-Mastery/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/kensunjaya/Leetcode-Mastery/tree/master/0066-plus-one) |
+| [0463-island-perimeter](https://github.com/kensunjaya/Leetcode-Mastery/tree/master/0463-island-perimeter) |
 ## Trie
 |  |
 | ------- |
@@ -41,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/kensunjaya/Leetcode-Mastery/tree/master/0046-permutations) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/kensunjaya/Leetcode-Mastery/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/kensunjaya/Leetcode-Mastery/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/kensunjaya/Leetcode-Mastery/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->

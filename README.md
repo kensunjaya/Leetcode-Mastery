@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kensunjaya/Leetcode-Mastery/tree/master/0014-longest-common-prefix) |
+| [0046-permutations](https://github.com/kensunjaya/Leetcode-Mastery/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/kensunjaya/Leetcode-Mastery/tree/master/0066-plus-one) |
 ## Trie
 |  |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/kensunjaya/Leetcode-Mastery/tree/master/0066-plus-one) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/kensunjaya/Leetcode-Mastery/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->

@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/kensunjaya/Leetcode-Mastery/tree/master/0066-plus-one) |
+| [0367-valid-perfect-square](https://github.com/kensunjaya/Leetcode-Mastery/tree/master/0367-valid-perfect-square) |
 ## Backtracking
 |  |
 | ------- |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/kensunjaya/Leetcode-Mastery/tree/master/0463-island-perimeter) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/kensunjaya/Leetcode-Mastery/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->

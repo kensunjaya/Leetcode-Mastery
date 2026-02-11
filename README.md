@@ -68,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/kensunjaya/Leetcode-Mastery/tree/master/0197-rising-temperature) |
 | [1153-product-sales-analysis-i](https://github.com/kensunjaya/Leetcode-Mastery/tree/master/1153-product-sales-analysis-i) |
 | [1179-game-play-analysis-i](https://github.com/kensunjaya/Leetcode-Mastery/tree/master/1179-game-play-analysis-i) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/kensunjaya/Leetcode-Mastery/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/kensunjaya/Leetcode-Mastery/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
